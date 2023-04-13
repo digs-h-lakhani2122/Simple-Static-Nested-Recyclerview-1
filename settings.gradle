@@ -1,0 +1,2 @@
+rootProject.name='Nested Simple Recyclerview'
+include ':app'
